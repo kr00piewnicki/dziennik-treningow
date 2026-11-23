@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<treningi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="treningi.xsd">
+  <trening>
+    <id>1</id>
+    <data>2026-11-21</data>
+    <rodzaj>Siłowy – Plan C</rodzaj>
+    <intensywnosc>wysoka</intensywnosc>
+  </trening>
+  <trening>
+    <id>2</id>
+    <data>2026-11-19</data>
+    <rodzaj>Siłowy – Plan B</rodzaj>
+    <intensywnosc>umiarkowana</intensywnosc>
+  </trening>
+  <trening>
+    <id>3</id>
+    <data>2026-11-16</data>
+    <rodzaj>Siłowy – Plan A</rodzaj>
+    <intensywnosc>wysoka</intensywnosc>
+  </trening>
+  <trening>
+    <id>4</id>
+    <data>2026-11-14</data>
+    <rodzaj>Siłowy – Plan C</rodzaj>
+    <intensywnosc>umiarkowana</intensywnosc>
+  </trening>
+  <trening>
+    <id>5</id>
+    <data>2026-11-09</data>
+    <rodzaj>Siłowy – Plan A</rodzaj>
+    <intensywnosc>wysoka</intensywnosc>
+  </trening>
+</treningi>
+
+
