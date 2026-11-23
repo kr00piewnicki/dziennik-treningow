@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "data": "2026-11-21",
+    "rodzaj": "Siłowy – Plan C",
+    "intensywnosc": "wysoka"
+  },
+  {
+    "id": 2,
+    "data": "2026-11-19",
+    "rodzaj": "Siłowy – Plan B",
+    "intensywnosc": "umiarkowana"
+  },
+  {
+    "id": 3,
+    "data": "2026-11-16",
+    "rodzaj": "Siłowy – Plan A",
+    "intensywnosc": "wysoka"
+  },
+  {
+    "id": 4,
+    "data": "2026-11-14",
+    "rodzaj": "Siłowy – Plan C",
+    "intensywnosc": "umiarkowana"
+  },
+  {
+    "id": 5,
+    "data": "2026-11-09",
+    "rodzaj": "Siłowy – Plan A",
+    "intensywnosc": "wysoka"
+  }
+]
